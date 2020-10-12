@@ -17,6 +17,7 @@ public class Main {
         System.out.println("Starting app");
         Adder adder = new Adder(10, 20);
         System.out.println("hello");
+        System.out.println("how was your day?");
         System.out.println("App finished.");
         Sytem.out.println("goodbye");
     }
